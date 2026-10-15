@@ -1,5 +1,6 @@
 # DCD
-<img width="362" height="501" alt="image" src="https://github.com/user-attachments/assets/3f3a9555-d605-4cfb-8733-56eeae6186ae" />
+<img width="337" height="489" alt="image" src="https://github.com/user-attachments/assets/239b73fb-1abe-4715-b63c-c858f70a57d2" />
+
 
 A Digital Cassette Device that can store your music and/or your audio files in a physical format.
 # Features:
