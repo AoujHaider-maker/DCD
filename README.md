@@ -5,7 +5,7 @@
 
 PhantomPod is a Device that can store your music and/or your audio files in a physical format.
 
-I built this for [Stardance](https://stardance.space/r-33jyd)—, a Hack Club program where teens get to learn how to design their own custom hardware + software from scratch with all the physical components granted for free!
+I built this for [Stardance](https://stardance.space/r-33jyd), a Hack Club program where teens get to learn how to design their own custom hardware + software from scratch with all the physical components granted for free!
 # Features:
 
 # CAD Model:
