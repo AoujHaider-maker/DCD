@@ -1,5 +1,6 @@
-# DCD
-<img width="337" height="489" alt="image" src="https://github.com/user-attachments/assets/239b73fb-1abe-4715-b63c-c858f70a57d2" />
+# PhantomPod!
+<img width="363" height="479" alt="image" src="https://github.com/user-attachments/assets/e3178f4f-8b4d-403e-b12b-a08705990edb" />
+
 
 
 A Digital Cassette Device that can store your music and/or your audio files in a physical format.
